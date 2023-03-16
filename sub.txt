@@ -1,0 +1,4 @@
+sub(){
+int a,b;
+int sub=a-b;
+}

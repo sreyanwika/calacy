@@ -1,0 +1,4 @@
+ADD(){
+int a,b;
+int sum=a+b;
+}
