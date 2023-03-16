@@ -1,0 +1,4 @@
+mul(){
+int a,b;
+int mul=a*b;
+}
