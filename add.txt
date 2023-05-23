@@ -1,4 +1,5 @@
 ADD(){
 int a,b;
 int sum=a+b;
+addition is nothing but sum..
 }
